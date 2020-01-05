@@ -43,12 +43,12 @@
 <ol>
     <p>Objective: To accomplish the massive show field pictures processing, get the main color of clothing, the future trend of color, and color matching</p>
     <p>Duty: Mainly took charge of image processing, human recognition, portrait gouging, color clustering algorithm, and skin color removal algorithm.</p>
-<li><p> Removed the background: HumanBody Segment; get a mask; superimpose the original picture and the mask; cut out the human body, turned all pixels of the background black</p>
+<li><p> Removed the background: HumanBody Segment; get a mask; superimpose the original picture and the mask; cut out the human body, turned all pixels of the background black;</p>
 </li>
-<li><p>Used Kmeans++ to get the color clustering; selected the top six ones of the largest color
+<li><p>Used Kmeans++ to get the color clustering; selected the top six ones of the largest color areas;
 </p>
 </li>
-    <li><p>Made statistics on the color extraction results of all photos</p></li>
+    <li><p>Removed skin color based on YCrCb color space.</p></li>
     <p> Gain: results released in   <a href="papers/Conference/2018shanghaiFashionWeek_colorRelated.pdf" > trend analysis report of 2018 Shanghai fashion week
     </a> [my related part in this report]
         <p>(Xinhua News Agency & FASHIONDEEPBLUE)
@@ -57,7 +57,7 @@
 </li>
 <li><p>AA Algorithm Accelerates Neural Network, directed by Yajun HA, 06-08/2018</p>
 <ol>
-    <li><p><a href="A New CNN Pruning Method and Problems.pdf"> AFFINE ARITHMETIC</a>: examined the influence of noise on the output results of neural network by adding noise to the weight, to determine whether this weight is important; cut off the excess weights to make the network lighter</p>
+    <li><p><a href="papers/work/A New CNN Pruning Method and Problems.pdf"> AFFINE ARITHMETIC</a>: examined the influence of noise on the output results of neural network by adding noise to the weight, to determine whether this weight is important; cut off the excess weights to make the network lighter</p>
 </li>
 
 
