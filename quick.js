@@ -5,7 +5,6 @@ var imgWrap=[];
 
 
 function preload(arr){
-    alert("123");
     for (var i=0; i<arr.length;i++){
         imgWrap[i]=new Image();
         imgWrap[i].src=arr[i];
