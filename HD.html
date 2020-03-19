@@ -1,65 +1,116 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>WELCOME TO THE AI GALLERY</title>
-</head>
-
-<body>
-<div id="toptitle">
-    <h1>WELCOME TO THE AI GALLERY</h1>
-    <h2>All pictures are made by DCGANs </h2>
-</div>
-
-<style>
-
-                .gan div{ width:300px;float:left;margin-left:5px}
-                .gan div img{ display:block; width:100%}
-</style>
-<div class="gan">
-    <p align="center"><b>Abstractionism</b></p>
-    <div><img src="pictures/Gan/abs0.png"></div>
-    <div><img src="pictures/Gan/abs1.png"></div>
-    <div><img src="pictures/Gan/abs3.png"></div>
-    <div><img src="pictures/Gan/abs2.png"></div>
-</div>
-
-<p align="center"><b>Impressionism</b></p>
-
-<style>
-      .gan1 div{ width:300px;float:left;;margin-left:5px}
-      .gan1 div img{ display:block; width:100%;}
-</style>
-<div class="gan1">
-
-    <div><img src="pictures/Gan/imp0.png"></div>
-    <div><img src="pictures/Gan/imp1.png"></div>
-    <div><img src="pictures/Gan/imp3.png"></div>
-    <div><img src="pictures/Gan/imp2.png"></div>
-
-</div>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>AI art gallery</title>
+        <style>
 
 
-<style>
+            .test{
+                float: left;
+                width: 25%;
+                box-sizing: border-box;
+                padding: 10px;
+                min-width: 150px;
+            }
 
-       .gan2 div{ width:300px;float:left;;margin-left:5px}
-       .gan2 div img{ display:block; width:100%;}
-</style>
-<div class="gan2">
-    <p align="center"><b>Minimalism</b></p>
-    <div><img src="pictures/Gan/sim2.png"></div>
-    <div><img src="pictures/Gan/sim1.png"></div>
-    <div><img src="pictures/Gan/sim3.png"></div>
-    <div><img src="pictures/Gan/sim0.png"></div>
-</div>
+            .container{
+                width: 100%;
+            }
 
-    <p>  >>>>>>></p>
-    <p>If you want to use this pictures
-    please cite FashionDeepBlue and contact with the developer： Jingjingye and Yimingmao.
-    </p>
+            @media (max-width:615px ) {
+                .test{
+                    float: left;
+                    width: 33%;
+                    box-sizing: border-box;
+                    padding: 10px;
+                    min-width: 150px;
+                }
+            }
+
+            @media (max-width:465px ) {
+                .test{
+                    float: left;
+                    width: 50%;
+                    box-sizing: border-box;
+                    padding: 10px;
+                    min-width: 150px;
+                }
+            }
+
+            @media (max-width:315px ) {
+                .test{
+                    float: left;
+                    width: 100%;
+                    box-sizing: border-box;
+                    padding: 10px;
+
+                }
+            }
+
+        </style>
+    </head>
 
 
-</body>
+    <body>
+    <h1 align="center"> WELCOME TO THE AI ART GALLERY</h1>
+    <h2 align="center">All of these pictures are made by DCGANs. There is no designer or painter.</h2>
 
+        <div class="container">
+            <p align="center"><b>Abstractionism</b></p>
+            <div class="test" >
+                <img src="pictures/Gan/abs0.png" style="max-width: 100%;"/>
+            </div>
+            <div class="test" >
+                <img src="pictures/Gan/abs1.png" style="max-width: 100%;"/>
+            </div>
+            <div class="test" >
+                <img src="pictures/Gan/abs2.png"style="max-width: 100%;"/>
+            </div>
+            <div class="test" >
+                <img src="pictures/Gan/abs3.png" style="max-width: 100%;"/>
+            </div>
+            <p align="center"><b>Impressionism </b></p>
+                        <div class="test" >
+                <img src="pictures/Gan/imp0.png" style="max-width: 100%;"/>
+            </div>
+                        <div class="test" >
+                <img src="pictures/Gan/imp1.png" style="max-width: 100%;"/>
+            </div>
+                        <div class="test" >
+                <img src="pictures/Gan/imp2.png" style="max-width: 100%;"/>
+            </div>
+                        <div class="test" >
+                <img src="pictures/Gan/imp3.png" style="max-width: 100%;"/>
+            </div>
+            <p align="center"><b>Minimalism</b></p>
+            <div class="test" >
+                <img src="pictures/Gan/sim0.png" style="max-width: 100%;"/>
+            </div>
+                        <div class="test" >
+                <img src="pictures/Gan/sim1.png" style="max-width: 100%;"/>
+            </div>
+                        <div class="test" >
+                <img src="pictures/Gan/sim2.png" style="max-width: 100%;"/>
+            </div>
+                        </div>
+                        <div class="test" >
+                <img src="pictures/Gan/sim3.png" style="max-width: 100%;"/>
+            </div>
 
+        </div>
+    <p>If you want to use these pictures or generate pictures of specific style please cite FDB and contact with
+    developer: JinjingYe and YimingMao.</p>
+    </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
