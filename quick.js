@@ -1,4 +1,4 @@
-var imgSrcArr = ['pictures/Gan/imp0.png','pictures/Gan/imp1.png','pictures/Gan/imp2.png','pictures/Gan/imp3.png'];
+var imgSrcArr = ['pictures/Gan/imp0.jfif','pictures/Gan/imp1.jfif','pictures/Gan/imp2.jfif','pictures/Gan/imp3.jfif'];
 var imgWrap=[];
 
 
