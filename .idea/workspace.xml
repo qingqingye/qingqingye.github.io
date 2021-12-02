@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43d5528-eafe-4bb3-8e89-ccc7eade09e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Project_8803_EPI__Final.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/work/Project_8803_EPI__Final.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/Project_8803_EPI__Milestone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/presentation.pptx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" selection-start-line="22" selection-end-line="80" selection-end-column="17" />
+            <state relative-caret-position="291">
+              <caret line="78" column="71" selection-start-line="78" selection-start-column="71" selection-end-line="78" selection-end-column="71" />
               <folding>
                 <element signature="e#1950#1956#0" expanded="true" />
               </folding>
@@ -33,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -45,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="61" selection-end-column="20" />
+            <state relative-caret-position="322">
+              <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
               <folding>
                 <element signature="e#1975#1981#0" expanded="true" />
               </folding>
@@ -74,6 +78,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>EPI</find>
+      <find>pptx</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,14 +87,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/summary.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/result.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="625" />
     <option name="width" value="1305" />
     <option name="height" value="1103" />
@@ -157,19 +162,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638469854131</updated>
-      <workItem from="1638469860764" duration="5382000" />
+      <workItem from="1638469860764" duration="6080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5382000" />
+    <option name="totallyTimeSpent" value="6080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="417" y="0" width="870" height="735" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14373465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.259887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -195,16 +200,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" selection-start-line="22" selection-end-line="80" selection-end-column="17" />
-          <folding>
-            <element signature="e#1950#1956#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MENU">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -213,16 +208,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/profile.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="61" selection-end-column="20" />
-          <folding>
-            <element signature="e#1975#1981#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/summary.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -235,6 +220,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding>
+            <element signature="e#1975#1981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="78" column="71" selection-start-line="78" selection-start-column="71" selection-end-line="78" selection-end-column="71" />
+          <folding>
+            <element signature="e#1950#1956#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
